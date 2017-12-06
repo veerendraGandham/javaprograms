@@ -4,6 +4,7 @@ class Marks
  public static void main(String[] args)
  {
   int marks=45;
+System.out.println("haiiii");
   Switch(marks);
   {
     case 45:

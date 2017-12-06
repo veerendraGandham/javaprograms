@@ -25,6 +25,7 @@ class Main
 public static void main(String args[])
 {
 Tree T=new Tree();
+System.out.println("haiiii");
 T.huge();
 }
 }
